@@ -50,5 +50,8 @@
         "build": "webpack",
         "start": "webpack-dev-server",
         "lint": "eslint src/**/*.js"
+    },
+    "dependencies": {
+        "mini.css": "^2.3.7"
     }
 }

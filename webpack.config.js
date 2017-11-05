@@ -50,8 +50,9 @@ module.exports = () => ({
     },
 
     devServer: {
-        contentBase: 'dist',
+        contentBase: 'docs',
         port: 3000,
+        historyApiFallback: true,
     },
 
     plugins: [
