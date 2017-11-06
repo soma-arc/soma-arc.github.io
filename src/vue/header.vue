@@ -1,21 +1,21 @@
 <template>
   <header>
-    <h1 class="site-title">
+    <h1 class="site-title select-disabled">
       soma-arc.net
     </h1>
     <div class="site-navigation">
       <ul>
         <li>
-          <v-link href="/">Home</v-link>
+          <v-link class="v-link-button" href="/">Home</v-link>
         </li>
         <li>
-          <v-link href="/projects">Projects</v-link>
+          <v-link class="v-link-button" href="/projects">Projects</v-link>
         </li>
         <li>
-          <v-link href="/garally">Garally</v-link>
+          <v-link class="v-link-button" href="/garally">Garally</v-link>
         </li>
         <li>
-          <v-link href="/about">About / Contact</v-link>
+          <v-link class="v-link-button" href="/about">About / Contact</v-link>
         </li>
       </ul>
     </div>
@@ -34,10 +34,20 @@ export default {
 <style>
 header {
     height: 100px;
+    background-color: #1a2227;
 }
 
 .site-title {
     text-align: center;
+}
+
+.select-disabled {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    cursor: default;
 }
 
 .site-navigation {
@@ -55,11 +65,9 @@ ul {
 li {
     list-style:none;
     margin: 0px 10px 0px 10px;
-      
-    user-select: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    -o-user-select: none;
+}
+
+.v-link-button {
+    display: block;
 }
 </style>

@@ -13,7 +13,7 @@ window.addEventListener('load', () => {
             return h('root', { 'props': d })
         },
         components: { 'root': Root }
-    })
+    });
 
     window.addEventListener('popstate', () => {
         app.currentRoute = window.location.pathname;

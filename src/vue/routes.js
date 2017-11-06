@@ -1,6 +1,6 @@
 export default {
-    '/': 'Home',
-    '/projects': 'Projects',
-    '/garally': 'Garally',
-    '/about': 'About'
+    '/': 'home-panel',
+    '/projects': 'projects-panel',
+    '/garally': 'garally-panel',
+    '/about': 'about-panel'
 }

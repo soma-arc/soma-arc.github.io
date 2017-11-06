@@ -3,6 +3,8 @@
     v-bind:href="href"
     v-bind:class="{ active: isActive }"
     v-on:click="go"
+    class="link"
+    v-bind:style="textColor"
   >
     <slot></slot>
   </a>
@@ -20,6 +22,14 @@ export default {
     computed: {
         isActive () {
             return this.href === this.$root.currentRoute
+        },
+        textColor () {
+            if (this.isActive) {
+                return {
+                    color: 'red',
+                    opacity: 1
+                };
+            }
         }
     },
     methods: {
@@ -34,4 +44,32 @@ export default {
         }
     }
 }
-  </script>
+</script>
+
+<style>
+.link {
+    color: white;
+    text-decoration: none;
+    
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    cursor: default;
+
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+
+.link:hover {
+    cursor:pointer;
+}
+
+.link:visited {
+    color: white;
+}
+
+
+</style>

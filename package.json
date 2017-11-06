@@ -52,6 +52,7 @@
         "lint": "eslint src/**/*.js"
     },
     "dependencies": {
+        "masonry-layout": "^4.2.0",
         "mini.css": "^2.3.7"
     }
 }

@@ -1,72 +1,37 @@
 <template>
   <div id="root">
     <header-content/>
-    <div id="works-panel">
-      <div class="row" id="rr">
-        <div class="col-sm-4">
-          <div class="card fluid">
-            <div class="section">
-              <h3>SchottkyLink</h3>
-            </div>
-            <img class="section media"
-                 src="https://placehold.it/800x600">
-            <div class="section">
-              <p>Content</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="card fluid">
-            <div class="section">
-              <h3>SphairahedronExperiment</h3>
-            </div>
-            <img class="section media"
-                 src="https://placehold.it/800x600">
-            <div class="section">
-              <p>Content</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="card fluid">
-            <div class="section">
-              <h3>JosKleinExperiment</h3>
-            </div>
-            <img class="section media"
-                 src="https://placehold.it/800x600">
-            <div class="section">
-              <p>Content</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row" id="rr">
-        <div class="col-sm-4">
-          <div class="card fluid">
-            <div class="section">
-              <h3>Shaders</h3>
-            </div>
-            <img class="section media"
-                 src="https://placehold.it/800x600">
-            <div class="section">
-              <p>Content</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <keep-alive>
+      <transition name="component-fade" mode="out-in">
+        <component v-bind:is="viewComponent"></component>
+      </transition>
+    </keep-alive>
   </div>
 </template>
 
 <script>
 import HeaderContent from './header.vue';
+import ProjectsPanel from './projectsPanel.vue';
+import HomePanel from './homePanel.vue';
+import GarallyPanel from './garallyPanel.vue';
+import Routes from './routes.js';
+
 export default {
     props: ['currentRoute'],
     data: function() {
         return {
+            view: 'home-panel'
         }
     },
-    components: { HeaderContent }
+    components: { HeaderContent,
+                  ProjectsPanel,
+                  HomePanel,
+                  GarallyPanel },
+    computed: {
+        viewComponent: function() {
+            return Routes[this.currentRoute];
+        }
+    }
 }
 </script>
 
@@ -76,15 +41,18 @@ export default {
     flex-direction: column;
 }
 
-#works-panel {
-    display: flex;
-    flex-direction: column;
-
-    align-items:center;
+.component-fade-enter-active, .component-fade-leave-active {
+  transition: opacity .3s ease;
+}
+.component-fade-enter, .component-fade-leave-to
+/* .component-fade-leave-active for below version 2.1.8 */ {
+  opacity: 0;
 }
 
-#rr {
-    width: 90%;
+.panel-parent {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
 }
 
 </style>
