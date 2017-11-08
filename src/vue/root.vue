@@ -13,7 +13,7 @@
 import HeaderContent from './header.vue';
 import ProjectsPanel from './projectsPanel.vue';
 import HomePanel from './homePanel.vue';
-import GarallyPanel from './garallyPanel.vue';
+import GalleryPanel from './galleryPanel.vue';
 import Routes from './routes.js';
 
 export default {
@@ -26,7 +26,7 @@ export default {
     components: { HeaderContent,
                   ProjectsPanel,
                   HomePanel,
-                  GarallyPanel },
+                  GalleryPanel },
     computed: {
         viewComponent: function() {
             return Routes[this.currentRoute];

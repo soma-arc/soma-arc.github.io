@@ -12,7 +12,7 @@
           <v-link class="v-link-button" href="/projects">Projects</v-link>
         </li>
         <li>
-          <v-link class="v-link-button" href="/garally">Garally</v-link>
+          <v-link class="v-link-button" href="/gallery">Gallery</v-link>
         </li>
         <li>
           <v-link class="v-link-button" href="/about">About / Contact</v-link>
