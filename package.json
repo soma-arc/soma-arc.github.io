@@ -53,6 +53,7 @@
     },
     "dependencies": {
         "masonry-layout": "^4.2.0",
-        "mini.css": "^2.3.7"
+        "mini.css": "^2.3.7",
+        "url-loader": "^0.6.2"
     }
 }

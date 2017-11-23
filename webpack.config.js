@@ -31,14 +31,14 @@ module.exports = () => ({
                 },
             },
             {
+                test: /\.(jpg|png)$/,
+                exclude: /node_modules/,
+                loader: 'url-loader',
+            },
+            {
                 test: /\.js$/,
                 exclude: /node_modules(?!(\/|\\)keen-ui)/,
                 loader: 'babel-loader',
-            },
-            {
-                test: /\.png$/,
-                exclude: /node_modules/,
-                loader: 'url-loader',
             }
         ],
     },
