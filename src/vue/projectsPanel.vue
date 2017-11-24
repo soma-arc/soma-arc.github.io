@@ -88,8 +88,7 @@
           <div class="section">
             <h3>Parensymphony</h3>
           </div>
-          <img class="caption-img"
-               src="./img/parensymphony.png">
+          <img class="caption-img" src="./img/parensymphony.png">
           <div class="section">
             <p>Live coding environment for audio visual performance using lisp (Clojure).</p>
             <ul>
@@ -107,10 +106,13 @@
           <div class="section">
             <h3>SchottkyWaltz</h3>
           </div>
-          <img class="caption-img"
-               src="./img/SchottkyWaltz.jpg">
+          <img class="caption-img" src="./img/SchottkyWaltz.jpg">
           <div class="section">
-            <p>shader work</p>
+            <p>Tokyo Demo Fest 2017 GLSL Graphics compo 1st place.</p>
+            <ul>
+              <li><a href="https://www.shadertoy.com/view/XslyzH">Demo at Shadertoy</a></li>
+              <li><a href="http://soma.hatenablog.jp/entry/2017/02/26/002456">Blog post</a></li>
+            </ul>
           </div>
         </div>
       </div>
@@ -119,10 +121,16 @@
           <div class="section">
             <h3>K-Visions</h3>
           </div>
-          <img class="caption-img"
-               src="./img/k-visions.png">
+          <img class="caption-img" src="./img/k-visions.png">
           <div class="section">
-            <p>Hyp</p>
+            <p>Audio visual performance software about Kleinian groups. This software is developed for
+              <a href="http://bsod.fukuchilab.org/">BSOD 2.0</a>,
+              experimental event for visual performance.</p>
+            <ul>
+              <li><a href="https://github.com/soma-arc/K-Visions">Source on GitHub</a></li>
+              <li><a href="https://youtu.be/25cRX5tUwE4">Video</a></li>
+              <li><a href="http://soma.hatenablog.jp/entry/2015/09/04/144335">Blog post</a></li>
+            </ul>
           </div>
         </div>
       </div>
@@ -134,7 +142,12 @@
           <img class="caption-img"
                src="./img/hyperbolicBeing.png">
           <div class="section">
-            <p>Live coding environment for audio visual performance using lisp (Clojure).</p>
+            <p>Audio visual performance software about Hyperbolic Tessellation and Kleinian groups.
+                This software is developed for <a href="http://bsod.fukuchilab.org/">BSOD 3.0</a>,
+                experimental event for visual performance.</p>
+            <ul>
+              <li><a href="https://github.com/soma-arc/HyperbolicBeing">Repository on GitHub</a></li>
+            </ul>
           </div>
         </div>
       </div>
@@ -148,7 +161,11 @@
           <img class="caption-img"
                src="./img/indra.png">
           <div class="section">
-            <p>indra</p>
+            <p>Tokyo Demo Fest 2016 GLSL Graphics compo 2nd place.</p>
+            <ul>
+              <li><a href="https://www.shadertoy.com/view/XsGGWG">Demo at Shadertoy</a></li>
+              <li><a href="http://soma.hatenablog.jp/entry/2016/02/22/220100">Blog post</a></li>
+            </ul>
           </div>
         </div>
       </div>
