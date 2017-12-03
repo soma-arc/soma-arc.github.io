@@ -14,6 +14,7 @@ import HeaderContent from './header.vue';
 import ProjectsPanel from './projectsPanel.vue';
 import HomePanel from './homePanel.vue';
 import GalleryPanel from './galleryPanel.vue';
+import AboutPanel from './aboutPanel.vue';
 import Routes from './routes.js';
 
 export default {
@@ -26,7 +27,9 @@ export default {
     components: { HeaderContent,
                   ProjectsPanel,
                   HomePanel,
-                  GalleryPanel },
+                  GalleryPanel,
+                  AboutPanel
+                },
     computed: {
         viewComponent: function() {
             return Routes[this.currentRoute];

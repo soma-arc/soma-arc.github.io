@@ -12,8 +12,8 @@
             <p>An interactive visualization system on
               a family of Kleinian groups based on Schottky groups.</p>
             <ul class="project-links">
-                <li><a href="https://schottky.jp">https://schottky.jp</a></li>
-              <li><a href="https://github.com/soma-arc/SchottkyLink">GitHub</a></li>
+                <li class="project-link-list"><a href="https://schottky.jp">https://schottky.jp</a></li>
+              <li class="project-link-list"><a href="https://github.com/soma-arc/SchottkyLink">GitHub</a></li>
             </ul>
           </div>
         </div>
@@ -28,8 +28,8 @@
           <div class="section">
             <p>Sphairahedron is polyhedron with spherical faces.</p>
             <ul class="project-links">
-              <li><a href="https://soma-arc.net/SphairahedronExperiment">URL</a></li>
-              <li><a href="https://github.com/soma-arc/SphairahedronExperiment">GitHub</a></li>
+              <li class="project-link-list"><a href="https://soma-arc.net/SphairahedronExperiment">URL</a></li>
+              <li class="project-link-list"><a href="https://github.com/soma-arc/SphairahedronExperiment">GitHub</a></li>
             </ul>
           </div>
         </div>
@@ -44,8 +44,8 @@
           <div class="section">
             <p>Content</p>
             <ul class="project-links">
-              <li><a href="https://soma-arc.net/JosKleinExperiment">URL</a></li>
-              <li><a href="https://github.com/soma-arc/JosKleinExperiment">GitHub</a></li>
+              <li class="project-link-list"><a href="https://soma-arc.net/JosKleinExperiment">URL</a></li>
+              <li class="project-link-list"><a href="https://github.com/soma-arc/JosKleinExperiment">GitHub</a></li>
             </ul>
           </div>
         </div>
@@ -62,7 +62,7 @@
           <div class="section">
             <p>shader work</p>
             <ul class="project-links">
-              <li><a href="https://www.shadertoy.com/user/soma_arc">URL</a></li>
+              <li class="project-link-list"><a href="https://www.shadertoy.com/user/soma_arc">URL</a></li>
             </ul>
           </div>
         </div>
@@ -77,8 +77,8 @@
           <div class="section">
             <p>Hyp</p>
             <ul class="project-links">
-              <li><a href="https://soma-arc.net/HyperbolicTessellator">URL</a></li>
-              <li><a href="https://github.com/soma-arc/HyperbolicTessellator">GitHub</a></li>
+              <li class="project-link-list"><a href="https://soma-arc.net/HyperbolicTessellator">URL</a></li>
+              <li class="project-link-list"><a href="https://github.com/soma-arc/HyperbolicTessellator">GitHub</a></li>
             </ul>
           </div>
         </div>
@@ -92,9 +92,9 @@
           <div class="section">
             <p>Live coding environment for audio visual performance using lisp (Clojure).</p>
             <ul class="project-links">
-              <li><a href="https://github.com/soma-arc/parensymphony">GitHub</a></li>
-              <li><a href="https://www.youtube.com/watch?v=nxhqeIrgpfg">Video</a></li>
-              <li><a href="http://soma.hatenablog.jp/entry/2016/01/11/180655">Blog post</a></li>
+              <li class="project-link-list"><a href="https://github.com/soma-arc/parensymphony">GitHub</a></li>
+              <li class="project-link-list"><a href="https://www.youtube.com/watch?v=nxhqeIrgpfg">Video</a></li>
+              <li class="project-link-list"><a href="http://soma.hatenablog.jp/entry/2016/01/11/180655">Blog post</a></li>
             </ul>
           </div>
         </div>
@@ -110,8 +110,8 @@
           <div class="section">
             <p>Tokyo Demo Fest 2017 GLSL Graphics compo 1st place.</p>
             <ul class="project-links">
-              <li><a href="https://www.shadertoy.com/view/XslyzH">Demo at Shadertoy</a></li>
-              <li><a href="http://soma.hatenablog.jp/entry/2017/02/26/002456">Blog post</a></li>
+              <li class="project-link-list"><a href="https://www.shadertoy.com/view/XslyzH">Demo at Shadertoy</a></li>
+              <li class="project-link-list"><a href="http://soma.hatenablog.jp/entry/2017/02/26/002456">Blog post</a></li>
             </ul>
           </div>
         </div>
@@ -127,9 +127,9 @@
               <a href="http://bsod.fukuchilab.org/">BSOD 2.0</a>,
               experimental event for visual performance.</p>
             <ul class="project-links">
-              <li><a href="https://github.com/soma-arc/K-Visions">GitHub</a></li>
-              <li><a href="https://youtu.be/25cRX5tUwE4">Video</a></li>
-              <li><a href="http://soma.hatenablog.jp/entry/2015/09/04/144335">Blog post</a></li>
+              <li class="project-link-list"><a href="https://github.com/soma-arc/K-Visions">GitHub</a></li>
+              <li class="project-link-list"><a href="https://youtu.be/25cRX5tUwE4">Video</a></li>
+              <li class="project-link-list"><a href="http://soma.hatenablog.jp/entry/2015/09/04/144335">Blog post</a></li>
             </ul>
           </div>
         </div>
@@ -146,7 +146,7 @@
                 This software is developed for <a href="http://bsod.fukuchilab.org/">BSOD 3.0</a>,
                 experimental event for visual performance.</p>
             <ul class="project-links">
-              <li><a href="https://github.com/soma-arc/HyperbolicBeing">GitHub</a></li>
+              <li class="project-link-list"><a href="https://github.com/soma-arc/HyperbolicBeing">GitHub</a></li>
             </ul>
           </div>
         </div>
@@ -163,8 +163,8 @@
           <div class="section">
             <p>Tokyo Demo Fest 2016 GLSL Graphics compo 2nd place.</p>
             <ul class="project-links">
-              <li><a href="https://www.shadertoy.com/view/XsGGWG">Demo at Shadertoy</a></li>
-              <li><a href="http://soma.hatenablog.jp/entry/2016/02/22/220100">Blog post</a></li>
+              <li class="project-link-list"><a href="https://www.shadertoy.com/view/XsGGWG">Demo at Shadertoy</a></li>
+              <li class="project-link-list"><a href="http://soma.hatenablog.jp/entry/2016/02/22/220100">Blog post</a></li>
             </ul>
           </div>
         </div>
@@ -189,12 +189,13 @@ export default {
     flex-direction: column;
     text-align: left;
     align-items: flex-start;
+     list-style: circle;
 }
 
- li {
-margin-left:10px;
+.project-link-list {
+ margin-left:10px;
  list-style: circle;
- }
+}
 
 .project-card {
     height: 500px;
