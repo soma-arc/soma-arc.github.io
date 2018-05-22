@@ -15,6 +15,7 @@ import ProjectsPanel from './projectsPanel.vue';
 import HomePanel from './homePanel.vue';
 import GalleryPanel from './galleryPanel.vue';
 import AboutPanel from './aboutPanel.vue';
+import ActivityPanel from './activityPanel.vue';
 import Routes from './routes.js';
 
 export default {
@@ -28,7 +29,8 @@ export default {
                   ProjectsPanel,
                   HomePanel,
                   GalleryPanel,
-                  AboutPanel
+                  AboutPanel,
+                  ActivityPanel
                 },
     computed: {
         viewComponent: function() {
@@ -45,8 +47,9 @@ export default {
 }
 
 .component-fade-enter-active, .component-fade-leave-active {
-  transition: opacity .3s ease;
+  transition: opacity .2s ease;
 }
+
 .component-fade-enter, .component-fade-leave-to
 /* .component-fade-leave-active for below version 2.1.8 */ {
   opacity: 0;
@@ -56,6 +59,7 @@ export default {
     display: flex;
     flex-direction: column;
     align-items:center;
+    margin-bottom: 50px;
 }
 
 </style>

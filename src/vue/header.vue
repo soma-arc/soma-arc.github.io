@@ -4,17 +4,20 @@
       soma-arc.net
     </h1>
     <div class="site-navigation">
-      <ul>
-        <li>
+      <ul class="header-buttons">
+        <li class="button-elem">
           <v-link class="v-link-button" href="/">Home</v-link>
         </li>
-        <li>
+        <li class="button-elem">
           <v-link class="v-link-button" href="/projects">Projects</v-link>
         </li>
-        <li>
+        <li class="button-elem">
+          <v-link class="v-link-button" href="/activity">Publications / Activities</v-link>
+        </li>
+        <li class="button-elem">
           <v-link class="v-link-button" href="/gallery">Gallery</v-link>
         </li>
-        <li>
+        <li class="button-elem">
           <v-link class="v-link-button" href="/about">About / Contact</v-link>
         </li>
       </ul>
@@ -54,7 +57,7 @@ header {
     text-align: center;
 }
 
-ul {
+.header-buttons {
     text-align: center;
     display: flex;
     flex-direction: row;
@@ -62,7 +65,7 @@ ul {
     align-items: center;
 }
 
-li {
+.button-elem {
     list-style:none;
     margin: 0px 10px 0px 10px;
 }
