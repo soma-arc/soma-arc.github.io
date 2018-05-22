@@ -14,7 +14,6 @@ import HeaderContent from './header.vue';
 import ProjectsPanel from './projectsPanel.vue';
 import HomePanel from './homePanel.vue';
 import GalleryPanel from './galleryPanel.vue';
-import AboutPanel from './aboutPanel.vue';
 import ActivityPanel from './activityPanel.vue';
 import Routes from './routes.js';
 
@@ -29,7 +28,6 @@ export default {
                   ProjectsPanel,
                   HomePanel,
                   GalleryPanel,
-                  AboutPanel,
                   ActivityPanel
                 },
     computed: {
@@ -60,6 +58,9 @@ export default {
     flex-direction: column;
     align-items:center;
     margin-bottom: 50px;
+}
+html {
+    overflow-y: scroll;
 }
 
 </style>

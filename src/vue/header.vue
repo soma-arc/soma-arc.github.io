@@ -6,7 +6,7 @@
     <div class="site-navigation">
       <ul class="header-buttons">
         <li class="button-elem">
-          <v-link class="v-link-button" href="/">Home</v-link>
+          <v-link class="v-link-button" href="/">About</v-link>
         </li>
         <li class="button-elem">
           <v-link class="v-link-button" href="/projects">Projects</v-link>
@@ -16,9 +16,6 @@
         </li>
         <li class="button-elem">
           <v-link class="v-link-button" href="/gallery">Gallery</v-link>
-        </li>
-        <li class="button-elem">
-          <v-link class="v-link-button" href="/about">About / Contact</v-link>
         </li>
       </ul>
     </div>

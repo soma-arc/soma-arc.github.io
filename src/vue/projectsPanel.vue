@@ -208,4 +208,8 @@ export default {
     height: auto;
 }
 
+.card {
+      height: 95%;
+}
+
 </style>
