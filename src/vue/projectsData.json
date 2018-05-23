@@ -1,0 +1,119 @@
+{
+    "projectList": [{
+        "title": "SchottkyLink",
+        "captionSrc": "./img/projects/schottkyLink.png",
+        "description": "An interactive visualization system on a family of Kleinian groups based on Schottky groups.",
+        "links": [{ "title": "https://schottky.jp",
+                    "url": "https://schottky.jp"
+                  },
+                  { "title": "GitHub",
+                    "url": "https://github.com/soma-arc/SchottkyLink"}
+                 ]
+    },
+    {
+        "title": "Sphairahedron",
+        "captionSrc": "./img/projects/sphairahedronExperiment.jpg",
+        "description": "Sphairahedron is polyhedron with spherical faces.",
+        "links": [{ "title": "URL",
+                    "url": "https://sphairahedron.net"
+                  },
+                  { "title": "Renderer",
+                    "url": "https://soma-arc.net/SphairahedronExperiment"
+                  },
+                  { "title": "GitHub",
+                    "url": "https://github.com/soma-arc/SphairahedronExperiment"}
+                 ]
+    },
+    {
+        "title": "JosKleinExperiment",
+        "captionSrc": "./img/projects/josklein.png",
+        "description": "An efficient algorithm to render Kleinian groups with maskit parametrization invented by Jos Leys",
+        "links": [{ "title": "URL",
+                    "url": "https://soma-arc.net/JosKleinExperiment"
+                  },
+                  { "title": "GitHub",
+                    "url": "https://github.com/soma-arc/JosKleinExperiment"}
+                 ]
+    },
+    {
+        "title": "Shaders on Shadertoy",
+        "captionSrc": "./img/projects/shadertoy.jpg",
+        "description": "My Shadertoy page. The main theme of the shader is mathematical visualization",
+        "links": [{ "title": "URL",
+                    "url": "https://www.shadertoy.com/user/soma_arc"
+                  }
+                 ]
+    },
+    {
+        "title": "HyperbolicTessellator",
+        "captionSrc": "./img/projects/tessellation.png",
+        "description": "Hyperbolic tessellation and its deformation",
+        "links": [{ "title": "URL",
+                    "url": "https://soma-arc.net/HyperbolicTessellator"
+                  },
+                  { "title": "GitHub",
+                    "url": "https://github.com/soma-arc/HyperbolicTessellator"}
+                 ]
+    },
+    {
+        "title": "Parensymphony",
+        "captionSrc": "./img/projects/parensymphony.png",
+        "description": "Live coding environment for audio visual performance using lisp (Clojure).",
+        "links": [{ "title": "GitHub",
+                    "url": "https://github.com/soma-arc/parensymphony"
+                  },
+                  { "title": "Video",
+                    "url": "https://www.youtube.com/watch?v=nxhqeIrgpfg"
+                  },
+                  { "title": "Blog Post",
+                    "url": "http://soma.hatenablog.jp/entry/2016/01/11/180655"}
+                 ]
+    },
+    {
+        "title": "SchottkyWaltz",
+        "captionSrc": "./img/projects/SchottkyWaltz.jpg",
+        "description": "Tokyo Demo Fest 2017 GLSL Graphics compo 1st place.",
+        "links": [{ "title": "Demo at Shadertoy",
+                    "url": "https://www.shadertoy.com/view/XslyzH"
+                  },
+                  { "title": "Blog Post",
+                    "url": "http://soma.hatenablog.jp/entry/2017/02/26/002456"}
+                 ]
+    },
+    {
+        "title": "Hyperbolic Being",
+        "captionSrc": "./img/projects/hyperbolicBeing.png",
+        "description": "Audio visual performance software about Hyperbolic Tessellation and Kleinian groups. This software is developed for <a href='http://bsod.fukuchilab.org/'>BSOD 3.0</a>, experimental event for visual performance.",
+        "links": [{ "title": "GitHub",
+                    "url": "https://github.com/soma-arc/HyperbolicBeing"
+                  }
+                 ]
+    },
+    {
+        "title": "K-Visions",
+        "captionSrc": "./img/projects/k-visions.png",
+        "description": "Audio visual performance software about Kleinian groups. This software is developed for <a href='http://bsod.fukuchilab.org/'>BSOD 2.0</a>, experimental event for visual performance.</p>",
+        "links": [{ "title": "GitHub",
+                    "url": "https://github.com/soma-arc/K-Visions"
+                  },
+                  { "title": "Video",
+                    "url": "https://youtu.be/25cRX5tUwE4"
+                  },
+                  { "title": "Blog Post",
+                    "url": "http://soma.hatenablog.jp/entry/2015/09/04/144335"
+                  }
+                 ]
+    },
+    {
+        "title": "Indra's Bubble",
+        "captionSrc": "./img/projects/indra.png",
+        "description": "Tokyo Demo Fest 2016 GLSL Graphics compo 2nd place.",
+        "links": [{ "title": "Demo at Shadertoy",
+                    "url": "https://www.shadertoy.com/view/XsGGWG"
+                  },
+                  { "title": "Blog Post",
+                    "url": "http://soma.hatenablog.jp/entry/2016/02/22/220100"
+                  }
+                 ]
+    }]
+}

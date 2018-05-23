@@ -34,6 +34,9 @@ module.exports = () => ({
                 test: /\.(jpg|png)$/,
                 exclude: /node_modules/,
                 loader: 'url-loader',
+                options: {
+                    limit: 8192
+                }
             },
             {
                 test: /\.js$/,

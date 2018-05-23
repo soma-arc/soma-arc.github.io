@@ -2,7 +2,14 @@
   <div class="panel-parent">
     <h1>About Me</h1>
     Kento Nakamura<br>
-    Graduate student in Tokyo, Japan.
+    Graduate student in Tokyo, Japan.<br>
+    <h1>Interests</h1>
+    <ul>
+      <li><h4>Mathematical Visualization</h4></li>
+      Fractals, Hyperbolic Geometry and Kleinian Groups
+      <li><h4>Computer Graphics</h4></li>
+      Ray Tracing and Global Illumination
+    </ul>
     <h1>Affiliation</h1>
     <div>
       Ahara Laboratory,<br>
@@ -33,7 +40,6 @@ export default {
     flex-direction: column;
     text-align: left;
     align-items: center;
-    list-style: circle;
 }
 </style>
 
