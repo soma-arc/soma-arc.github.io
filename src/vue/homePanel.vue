@@ -24,6 +24,7 @@
       <li><a href="http://soma.hatenablog.jp/" target="_blank">Hatena Blog</a></li>
       <li><a href="https://www.youtube.com/channel/UCZPcM9n56N-ftmJfHKoC03Q" target="_blank">YouTube</a></li>
       <li><a href="https://twitter.com/soma_arc" target="_blank">Twitter</a></li>
+      <li><a href="http://soma-arc.tumblr.com/" target="_blank">Tumblr</a></li>
     </ul>
   </div>
 </template>

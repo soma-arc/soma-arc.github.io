@@ -13,7 +13,7 @@
     {
         "title": "Sphairahedron",
         "captionSrc": "./img/projects/sphairahedronExperiment.jpg",
-        "description": "Sphairahedron is polyhedron with spherical faces.",
+        "description": "Sphairahedra are analogous to polyhedra but with spherical faces. They are invented to introduced a new kind of fractal shape.",
         "links": [{ "title": "URL",
                     "url": "https://sphairahedron.net"
                   },
@@ -27,7 +27,7 @@
     {
         "title": "JosKleinExperiment",
         "captionSrc": "./img/projects/josklein.png",
-        "description": "An efficient algorithm to render Kleinian groups with maskit parametrization invented by Jos Leys",
+        "description": "An efficient algorithm to render Kleinian groups with maskit parametrization invented by Jos Leys. This is an experimental renderer for the algorithm.",
         "links": [{ "title": "URL",
                     "url": "https://soma-arc.net/JosKleinExperiment"
                   },
@@ -47,7 +47,7 @@
     {
         "title": "HyperbolicTessellator",
         "captionSrc": "./img/projects/tessellation.png",
-        "description": "Hyperbolic tessellation and its deformation",
+        "description": "Visualize hyperbolic tessellation and its deformation.",
         "links": [{ "title": "URL",
                     "url": "https://soma-arc.net/HyperbolicTessellator"
                   },
