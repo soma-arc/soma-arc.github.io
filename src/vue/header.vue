@@ -14,9 +14,6 @@
         <li class="button-elem">
           <v-link class="v-link-button" href="/activity">Publications / Activities</v-link>
         </li>
-        <li class="button-elem">
-          <v-link class="v-link-button" href="/gallery">Gallery</v-link>
-        </li>
       </ul>
     </div>
   </header>

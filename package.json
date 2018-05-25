@@ -52,8 +52,10 @@
         "lint": "eslint src/**/*.js"
     },
     "dependencies": {
+        "file-loader": "^1.1.11",
         "masonry-layout": "^4.2.0",
         "mini.css": "^2.3.7",
-        "url-loader": "^0.6.2"
+        "url-loader": "^0.6.2",
+        "vue-lazyload": "^1.2.3"
     }
 }

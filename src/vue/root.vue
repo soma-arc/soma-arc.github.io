@@ -13,7 +13,6 @@
 import HeaderContent from './header.vue';
 import ProjectsPanel from './projectsPanel.vue';
 import HomePanel from './homePanel.vue';
-import GalleryPanel from './galleryPanel.vue';
 import ActivityPanel from './activityPanel.vue';
 import Routes from './routes.js';
 
@@ -27,7 +26,6 @@ export default {
     components: { HeaderContent,
                   ProjectsPanel,
                   HomePanel,
-                  GalleryPanel,
                   ActivityPanel
                 },
     computed: {
