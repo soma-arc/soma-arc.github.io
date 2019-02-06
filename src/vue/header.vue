@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1 class="site-title select-disabled">
+    <h1 class="site-title select-disabled" id="header-title">
       soma-arc.net
     </h1>
     <div class="site-navigation">
@@ -66,5 +66,9 @@ header {
 
 .v-link-button {
     display: block;
+}
+
+#header-title {
+    color: white;
 }
 </style>

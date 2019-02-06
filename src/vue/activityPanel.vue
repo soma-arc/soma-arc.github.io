@@ -12,6 +12,11 @@
 		A Geometrical Representation and Visualization of Möbius Transformation Groups<br>
 		Kento Nakamura, Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2017/bridges2017-159.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/a-geometrical-representation-and-visualization-of-mobius-transformation-groups" target="_blank">slide</a>]<br>
 	  </li>
+      <li>
+		<h3><a href="http://bridgesmathart.org/bridges-2018/" target="_blank">Bridges Stockholm 2018 Proceedings</a> Regular Papers</h3>
+		Sphairahedra and Three-Dimensional Fractals<br>
+		Kento Nakamura, Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2018/bridges2018-171.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/sphairahedra-and-three-dimensional-fractals" target="_blank">slide</a>]<br>
+	  </li>
 	</ul>
     <h1>Conference Activities & Talks</h1>
 	<ul class="content">
