@@ -1,5 +1,15 @@
 {
-    "projectList": [{
+    "projectList": [
+        {
+        "title": "Morph",
+        "captionSrc": "./img/projects/morph.png",
+        "description": "Tokyo Demo Fest 2018 GLSL Graphics compo",
+        "links": [{ "title": "Demo at Shadertoy",
+                    "url": "https://www.shadertoy.com/view/MlGfDG"
+                  }
+                 ]
+        },
+        {
         "title": "SchottkyLink",
         "captionSrc": "./img/projects/schottkyLink.png",
         "description": "An interactive visualization system on a family of Kleinian groups based on Schottky groups.",
@@ -38,7 +48,7 @@
     {
         "title": "Shaders on Shadertoy",
         "captionSrc": "./img/projects/shadertoy.jpg",
-        "description": "My Shadertoy page. The main theme of the shader is mathematical visualization",
+        "description": "My Shadertoy page. The main theme of the shaders are mathematical visualization",
         "links": [{ "title": "URL",
                     "url": "https://www.shadertoy.com/user/soma_arc"
                   }
