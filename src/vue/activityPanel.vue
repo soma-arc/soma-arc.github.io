@@ -53,6 +53,11 @@
 		November 17, 2017 [<a href="https://speakerdeck.com/soma_arc/visualization-of-mobius-transformation-groups-1" target="_blank">slide</a>,
         <a href="./img/meis2017.jpg" target="_blank">poster</a>]
 	  </li>
+      <li>
+		<h3><a href="http://www.libe.nara-k.ac.jp/~han/topology_comp_2019_e.htm" target="_blank">Workshop "Topology and Computer 2019"</a> Talk</h3>
+		Flower: A flow-based programming environment for kaleidoscope patterns<br>
+		October 21, 2019 [<a href="https://speakerdeck.com/soma_arc/flower-a-flow-based-programming-environment-for-kaleidoscope-patterns" target="_blank">slide</a>]
+	  </li>
 	</ul>
     <h1>Informal Talks</h1>
     <ul class="content">

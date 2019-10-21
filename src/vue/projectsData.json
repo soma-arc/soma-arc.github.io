@@ -1,6 +1,15 @@
 {
     "projectList": [
         {
+            "title": "Flower",
+            "captionSrc": "./img/projects/flower.png",
+            "description":"A flow-based programming environment for kaleidoscope patterns",
+            "links": [{ "title": "https://soma-arc.net/Flower/",
+                        "url": "https://soma-arc.net/Flower/"
+                      }
+                     ]
+        },
+        {
         "title": "Morph",
         "captionSrc": "./img/projects/morph.png",
         "description": "Tokyo Demo Fest 2018 GLSL Graphics compo",
