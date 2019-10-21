@@ -6,6 +6,9 @@
             "description":"A flow-based programming environment for kaleidoscope patterns",
             "links": [{ "title": "https://soma-arc.net/Flower/",
                         "url": "https://soma-arc.net/Flower/"
+                      },
+                      { "title": "GitHub",
+                        "url": "https://github.com/soma-arc/Flower"
                       }
                      ]
         },
