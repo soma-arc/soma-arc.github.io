@@ -58,6 +58,11 @@
 		Flower: A flow-based programming environment for kaleidoscope patterns<br>
 		October 21, 2019 [<a href="https://speakerdeck.com/soma_arc/flower-a-flow-based-programming-environment-for-kaleidoscope-patterns" target="_blank">slide</a>]
 	  </li>
+      <li>
+		<h3><a href="http://symmetry2019.org/" target="_blank">"Symmetry: Art and Science -11th Congress and Exhibition"</a> Talk</h3>
+		Flower: A flow-based programming environment for kaleidoscope patterns<br>
+		November 28, 2019
+	  </li>
 	</ul>
     <h1>Informal Talks</h1>
     <ul class="content">
