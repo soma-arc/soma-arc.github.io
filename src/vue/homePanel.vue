@@ -2,7 +2,7 @@
   <div class="panel-parent">
     <h1>About Me</h1>
     Kento Nakamura<br>
-    Graduate student in Tokyo, Japan.<br>
+    Doctoral student in Tokyo, Japan.<br>
     <h1>Interests</h1>
     <ul>
       <li><h4>Mathematical Visualization</h4></li>

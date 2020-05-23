@@ -17,6 +17,11 @@
 		Sphairahedra and Three-Dimensional Fractals<br>
 		Kento Nakamura, Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2018/bridges2018-171.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/sphairahedra-and-three-dimensional-fractals" target="_blank">slide</a>]<br>
 	  </li>
+      <li>
+		<h3>Master Thesis</h3>
+        Iterated Inversion System: An Eﬃcient Algorithm to Visualize Kleinian Groups Based on Inversions<br>
+		Kento Nakamura [<a href="./pdf/masterThesis.pdf" target="_blank">paper</a>]<br>
+	  </li>
 	</ul>
     <h1>Conference Activities & Talks</h1>
 	<ul class="content">
