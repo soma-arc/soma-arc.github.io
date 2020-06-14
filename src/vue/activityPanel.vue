@@ -20,7 +20,7 @@
       <li>
 		<h3>Master Thesis</h3>
         Iterated Inversion System: An Eﬃcient Algorithm to Visualize Kleinian Groups Based on Inversions<br>
-		Kento Nakamura [<a href="./pdf/masterThesis.pdf" target="_blank">paper</a>]<br>
+		Kento Nakamura [<a href="./paper/masterThesis.pdf" target="_blank">paper</a>]<br>
 	  </li>
 	</ul>
     <h1>Conference Activities & Talks</h1>
