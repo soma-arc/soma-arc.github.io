@@ -1,6 +1,15 @@
 {
     "projectList": [
         {
+            "title": "Newton Press Newton別冊 数学の世界 図形編 改訂第2版 フラクタル画像提供",
+            "captionSrc": "./img/projects/newton.jpg",
+            "description":"I provided the images of fractals to the Newton Press",
+            "links": [{ "title": "Newton Press",
+                        "url": "https://www.newtonpress.co.jp/separate/back_mathematics/mook_200410-2.html"
+                      }
+                     ]
+        },
+        {
             "title": "Flower",
             "captionSrc": "./img/projects/flower.png",
             "description":"A flow-based programming environment for kaleidoscope patterns",
@@ -9,6 +18,10 @@
                       },
                       { "title": "GitHub",
                         "url": "https://github.com/soma-arc/Flower"
+                      },
+                      {
+                          "title": "Introductory video of Flower",
+                          "url": "https://www.youtube.com/watch?v=FWp-eF5gz5o&feature=youtu.be"
                       }
                      ]
         },
