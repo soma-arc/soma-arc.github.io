@@ -5,22 +5,27 @@
 	  <li>
 		<h3><a href="http://bridgesmathart.org/bridges-2016/" target="_blank">Bridges Finland 2016 Proceedings</a> Short Papers</h3>
 		A New Algorithm for Rendering Kissing Schottky Groups,<br>
-		Kento Nakamura, Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2016/bridges2016-367.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/a-new-algorithm-for-rendering-kissing-schottky-groups" target="_blank">slide</a>]<br>
+		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2016/bridges2016-367.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/a-new-algorithm-for-rendering-kissing-schottky-groups" target="_blank">slide</a>]<br>
 	  </li>
       <li>
 		<h3><a href="http://bridgesmathart.org/bridges-2017/" target="_blank">Bridges Waterloo 2017 Proceedings</a> Regular Papers</h3>
 		A Geometrical Representation and Visualization of Möbius Transformation Groups<br>
-		Kento Nakamura, Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2017/bridges2017-159.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/a-geometrical-representation-and-visualization-of-mobius-transformation-groups" target="_blank">slide</a>]<br>
+		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2017/bridges2017-159.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/a-geometrical-representation-and-visualization-of-mobius-transformation-groups" target="_blank">slide</a>]<br>
 	  </li>
       <li>
 		<h3><a href="http://bridgesmathart.org/bridges-2018/" target="_blank">Bridges Stockholm 2018 Proceedings</a> Regular Papers</h3>
 		Sphairahedra and Three-Dimensional Fractals<br>
-		Kento Nakamura, Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2018/bridges2018-171.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/sphairahedra-and-three-dimensional-fractals" target="_blank">slide</a>]<br>
+		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2018/bridges2018-171.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/sphairahedra-and-three-dimensional-fractals" target="_blank">slide</a>]<br>
 	  </li>
       <li>
 		<h3>Master Thesis</h3>
         Iterated Inversion System: An Eﬃcient Algorithm to Visualize Kleinian Groups Based on Inversions<br>
 		Kento Nakamura [<a href="./paper/masterThesis.pdf" target="_blank">paper</a>]<br>
+	  </li>
+      <li>
+		<h3><a href="http://www.iaa.tu-bs.de/AppliedAlgebra/ICMS2020/ICMS2020.html" target="_blank">International Congress on Mathematical Software 2020 Proceedings</a></h3>
+		A Flow-Based Programming Environment for Geometrical Construction<br>
+		Kento Nakamura and Kazushi Ahara [<a href="https://www.springer.com/gp/book/9783030521998#" target="_blank">paper</a>]<br>
 	  </li>
 	</ul>
     <h1>Conference Activities & Talks</h1>
