@@ -4,27 +4,27 @@
     <ul class="content">
 	  <li>
 		<h3><a href="http://bridgesmathart.org/bridges-2016/" target="_blank">Bridges Finland 2016 Proceedings</a> Short Papers</h3>
-		A New Algorithm for Rendering Kissing Schottky Groups,<br>
-		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2016/bridges2016-367.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/a-new-algorithm-for-rendering-kissing-schottky-groups" target="_blank">slide</a>]<br>
+		A New Algorithm for Rendering Kissing Schottky Groups (peer-reviewed),<br>
+		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2016/bridges2016-367.html" target="_blank">paper</a>, <a href="https://drive.google.com/file/d/1YvVguHlqM2N33phGaHSvdRJR9A5jMn_t/view?usp=sharing" target="_blank">slide</a>]<br>
 	  </li>
       <li>
 		<h3><a href="http://bridgesmathart.org/bridges-2017/" target="_blank">Bridges Waterloo 2017 Proceedings</a> Regular Papers</h3>
-		A Geometrical Representation and Visualization of Möbius Transformation Groups<br>
-		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2017/bridges2017-159.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/a-geometrical-representation-and-visualization-of-mobius-transformation-groups" target="_blank">slide</a>]<br>
+		A Geometrical Representation and Visualization of Möbius Transformation Groups (peer-reviewed), <br>
+		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2017/bridges2017-159.html" target="_blank">paper</a>, <a href="https://drive.google.com/file/d/1VrIANp6pRu1V6VjcRidnmWlGX3sgw2V8/view?usp=sharing" target="_blank">slide</a>]<br>
 	  </li>
       <li>
 		<h3><a href="http://bridgesmathart.org/bridges-2018/" target="_blank">Bridges Stockholm 2018 Proceedings</a> Regular Papers</h3>
-		Sphairahedra and Three-Dimensional Fractals<br>
-		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2018/bridges2018-171.html" target="_blank">paper</a>, <a href="https://speakerdeck.com/soma_arc/sphairahedra-and-three-dimensional-fractals" target="_blank">slide</a>]<br>
+		Sphairahedra and Three-Dimensional Fractals (peer-reviewed), <br>
+		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2018/bridges2018-171.html" target="_blank">paper</a>, <a href="https://drive.google.com/file/d/17Ow7sQxDpo2XxJx_nLEuMNUajt_nq0l9/view?usp=sharing" target="_blank">slide</a>]<br>
 	  </li>
       <li>
-		<h3>Master Thesis</h3>
+		<h3>Master Thesis (Graduate School of Advanced Mathematical Sciences, Meiji University)</h3>
         Iterated Inversion System: An Eﬃcient Algorithm to Visualize Kleinian Groups Based on Inversions<br>
 		Kento Nakamura [<a href="./paper/masterThesis.pdf" target="_blank">paper</a>]<br>
 	  </li>
       <li>
 		<h3><a href="http://www.iaa.tu-bs.de/AppliedAlgebra/ICMS2020/ICMS2020.html" target="_blank">International Congress on Mathematical Software 2020 Proceedings</a></h3>
-		A Flow-Based Programming Environment for Geometrical Construction<br>
+		A Flow-Based Programming Environment for Geometrical Construction (peer-reviewed),<br>
 		Kento Nakamura and Kazushi Ahara [<a href="https://www.springer.com/gp/book/9783030521998#" target="_blank">paper</a>]<br>
 	  </li>
 	</ul>
@@ -39,38 +39,38 @@
 	  <li>
 		<h3><a href="http://auemath.aichi-edu.ac.jp/~ainoue/workshop/TopologyComputer2015.html" target="_blank">Workshop "Topology and Computer 2015"</a> Talk</h3>
 		Visualization of the Kleinian groups: fractal artworks and rendering techniques<br>
-		November 8, 2015 [<a href="https://speakerdeck.com/soma_arc/visualization-of-kleinian-groups-fractal-artworks-and-rendering-techniques" target="_blank">slide</a>]
+		November 8, 2015 [<a href="https://drive.google.com/file/d/1PnhtdrsMGg1HOV77nKqGK5F0lpPkJdxn/view?usp=sharing" target="_blank">slide</a>]
 	  </li>
 	  <li>
 		<h3><a href="http://www.math.akita-u.ac.jp/tc2016/index-e.html" target="_blank">Workshop "Topology and Computer 2016"</a> Talk</h3>
 		An interactive visualization system on a family of Kleinian groups based on Schottky groups
-		October 30, 2016 [<a href="https://speakerdeck.com/soma_arc/an-interactive-visualization-system-on-a-family-of-kleinian-groups-based-on-schottky-groups" target="_blank">slide</a>]
+		October 30, 2016 [<a href="https://drive.google.com/file/d/1eB3hYMnwcw5KO1ij_Ua1Mz4CYp4kk1BE/view?usp=sharing" target="_blank">slide</a>]
 	  </li>
       <li>
 		<h3><a href="http://geom.math.se.tmu.ac.jp/modules/piCal/index.php?action=View&event_id=0000000756" target="_blank">Workshop "Intuitive Geometry 2017"</a> Talk</h3>
 		Visualizing fractals originating from Möbius transformation groups and its geometrical representation based on inversions<br>
-		February 12, 2017 [<a href="https://speakerdeck.com/soma_arc/visualizing-fractals-originating-from-mobius-transformation-groups-and-its-geometrical-representation-based-on-inversions" target="_blank">slide</a>]
+		February 12, 2017 [<a href="https://drive.google.com/file/d/1f1yzmQ9QFi5ENK2xXSjbJzLefSjrc5kj/view?usp=sharing" target="_blank">slide</a>]
 	  </li>
       <li>
 		<h3><a href="http://www.math.akita-u.ac.jp/tc2017/index-e.html" target="_blank">Workshop "Topology and Computer 2017"</a> Talk</h3>
 		Polyhedra with Spherical Faces and Quasi-Fuchsian Fractals<br>
-		October 21, 2017 [<a href="https://speakerdeck.com/soma_arc/polyhedra-with-spherical-faces-and-quasi-fuchsian-fractals" target="_blank">slide</a>]
+		October 21, 2017 [<a href="https://drive.google.com/file/d/15NwV3AqpjeCLgLn9kJfov4mccHgNNMmp/view?usp=sharing" target="_blank">slide</a>]
 	  </li>
       <li>
 		<h3><a href="https://mcg2.imi.kyushu-u.ac.jp/meis2017/" target="_blank">Symposium "MEIS 2017"</a> Talk, Poster & Demo</h3>
         Poster & Demo: Visualization of Möbius Transformation Groups<br>
         Talk: Polyhedra with Spherical Faces and Quasi-Fuchsian Fractals<br>
-		November 17, 2017 [<a href="https://speakerdeck.com/soma_arc/visualization-of-mobius-transformation-groups-1" target="_blank">slide</a>,
+		November 17, 2017 [<a href="https://drive.google.com/file/d/1KDYIpixmZ4pLDTgUhS-IhwR4j6_eswLD/view?usp=sharing" target="_blank">slide</a>,
         <a href="./img/meis2017.jpg" target="_blank">poster</a>]
 	  </li>
       <li>
 		<h3><a href="http://www.libe.nara-k.ac.jp/~han/topology_comp_2019_e.htm" target="_blank">Workshop "Topology and Computer 2019"</a> Talk</h3>
 		Flower: A flow-based programming environment for kaleidoscope patterns<br>
-		October 21, 2019 [<a href="https://speakerdeck.com/soma_arc/flower-a-flow-based-programming-environment-for-kaleidoscope-patterns" target="_blank">slide</a>]
+		October 21, 2019 [<a href="https://drive.google.com/file/d/1XZSn-Iy2B8cLiBQpOLJMQXvNhhBib3aD/view?usp=sharing" target="_blank">slide</a>]
 	  </li>
       <li>
 		<h3><a href="http://symmetry2019.org/" target="_blank">"Symmetry: Art and Science -11th Congress and Exhibition"</a> Talk</h3>
-		Flower: A flow-based programming environment for kaleidoscope patterns<br>
+		Flower: A flow-based programming environment for kaleidoscope patterns (peer-reviewed),<br>
 		November 28, 2019
 	  </li>
 	</ul>
@@ -79,16 +79,16 @@
       <li>
         <h3><a href="https://techplay.jp/event/615327" target="_blank">プログラマのための数学LT会 (Math Lightning Talks for Programmers)</a></h3>
         Circle Inversion Fractals and Its Rendering Technique<br>
-        March 29, 2017 [<a href="https://speakerdeck.com/soma_arc/circle-inversion-fractals-and-its-rendering-technique" target="_blank">slide</a> ]
+        March 29, 2017 [<a href="https://drive.google.com/file/d/1NB2MTRf_Ra9pZwfYUmA3WckdUbPLAnNs/view?usp=sharing" target="_blank">slide</a>]
       </li>
       <li><h3><a href="http://www.f.waseda.jp/ykomori/yurui-seminar2013.html">Waseda Hyperbolic Geometry and Geometric Group Seminar</a></h3>
         Visualization of Möbius Transformation Groups and Its Algorithm<br>
-        May 12, 2017 [<a href="https://speakerdeck.com/soma_arc/visualization-of-mobius-transformation-groups-and-its-algorithm" target="_blank">slide</a>]
+        May 12, 2017 [<a href="https://drive.google.com/file/d/15NIwcmg_A7l2WLtQGNyyZNsSmbf0CNRi/view?usp=sharing" target="_blank">slide</a>]
 	  </li>
       <li>
         <h3>Presentation at my seminar class</h3>
         メビウス変換群の可視化とその幾何学的表現 (Visualization of Möbius Transformation Groups and its Geometrical Representation) <br>
-        May 29, 2017 [<a href="https://speakerdeck.com/soma_arc/mebiusubian-huan-qun-falseke-shi-hua-tosofalseji-he-xue-de-biao-xian" target="_blank">slide</a> (written in Japanese)]
+        May 29, 2017 [<a href="https://drive.google.com/file/d/1f66F0Tre4mfFpFklI84Ev19dtVYkVD9y/view?usp=sharingg" target="_blank">slide</a> (written in Japanese)]
       </li>
       <li><h3><a href="https://atnd.org/events/93843" target="_blank">メガデモ勉強会! 2018 (Mega Demo Study Meeting)</a></h3>
         鏡映によるフラクタルとGLSLによる描画 (Fractals generated by mirror reflections and visualization with GLSL)<br>
@@ -97,8 +97,8 @@
     </ul>
     <h1>Informal Articles</h1>
     <ul class="content">
-        <li><h3>Visualization of Kleinian Groups</h3>
-            Rendering techniques for some fractals, Kleinian groups, and tessellations.<br>
+        <li><h3>Bachelor Thesis (School of Interdisciplinary Mathematical Sciences, Meiji University</h3>
+          Visualization of Kleinian Groups<br>
             March, 2017 [<a href="https://github.com/soma-arc/visualization-of-kleinian-groups/releases/tag/v1.0" target="_blank">paper</a> (written in Japanese) ]
 	    </li>
     </ul>
