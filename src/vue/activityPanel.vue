@@ -95,11 +95,16 @@
         March 10, 2018 [<a href="https://drive.google.com/file/d/1HWsRzMD63y03aRXMkxXpceOpZJXjaqY1" target="_blank">slide</a> (written in japanese) ]
 	  </li>
     </ul>
-    <h1>Informal Articles</h1>
+    <h1>Others</h1>
     <ul class="content">
-        <li><h3>Bachelor Thesis (School of Interdisciplinary Mathematical Sciences, Meiji University</h3>
-          Visualization of Kleinian Groups<br>
+        <li><h3>Bachelor Thesis (School of Interdisciplinary Mathematical Sciences, Meiji University)</h3>
+          Visualization of Kleinian Groups,<br>
             March, 2017 [<a href="https://github.com/soma-arc/visualization-of-kleinian-groups/releases/tag/v1.0" target="_blank">paper</a> (written in Japanese) ]
+	    </li>
+         <li><h3>Preprint</h3>
+           Polyhedra with Spherical Faces and Four-Dimensional Kleinian Groups,<br>
+           Kento Nakamura, Yoshiaki Araki, and Kazushi Ahara,<br>
+           September,2020 [<a href="https://github.com/soma-arc/ExperimentalMathematics/releases/tag/1.0" target="_blank">paper</a>]
 	    </li>
     </ul>
     <h1>Rewards</h1>

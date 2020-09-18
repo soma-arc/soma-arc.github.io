@@ -1,7 +1,7 @@
 <template>
   <div class="panel-parent">
     <h1>About Me</h1>
-    Kento Nakamura<br>
+    Kento Nakamura / 中村建斗<br>
     Doctoral student in Tokyo, Japan.<br>
     <h1>Interests</h1>
     <ul>
@@ -24,7 +24,6 @@
       <li><a href="http://soma.hatenablog.jp/" target="_blank">Hatena Blog</a></li>
       <li><a href="https://www.youtube.com/channel/UCZPcM9n56N-ftmJfHKoC03Q" target="_blank">YouTube</a></li>
       <li><a href="https://twitter.com/soma_arc" target="_blank">Twitter</a></li>
-      <li><a href="http://soma-arc.tumblr.com/" target="_blank">Tumblr</a></li>
     </ul>
   </div>
 </template>
