@@ -10,9 +10,9 @@
                        "url": "https://github.com/soma-arc/IFSExperiment"}]
         },
         {
-            "title": "Newton Press Newton別冊 数学の世界 図形編 改訂第2版 フラクタル画像提供",
+            "title": "Newton Press",
             "captionSrc": "./img/projects/newton.jpg",
-            "description":"I provided the images of fractals to the Newton Press",
+            "description":"I provided the images of fractals to the Newton Press. / Newton別冊 数学の世界 図形編 改訂第2版 フラクタル画像提供",
             "links": [{ "title": "Newton Press",
                         "url": "https://www.newtonpress.co.jp/separate/back_mathematics/mook_200410-2.html"
                       }
