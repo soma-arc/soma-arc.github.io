@@ -1,6 +1,15 @@
 {
     "projectList": [
         {
+            "title": "Fractal Flame",
+            "captionSrc": "./img/projects/fractalFlame.png",
+            "description": "Fractal Flame Renderer",
+            "links": [{"title": "Web page",
+                       "url": "https://soma-arc.net/IFSExperiment/"},
+                      {"title": "GitHub",
+                       "url": "https://github.com/soma-arc/IFSExperiment"}]
+        },
+        {
             "title": "Newton Press Newton別冊 数学の世界 図形編 改訂第2版 フラクタル画像提供",
             "captionSrc": "./img/projects/newton.jpg",
             "description":"I provided the images of fractals to the Newton Press",
@@ -49,7 +58,7 @@
         "title": "Sphairahedron",
         "captionSrc": "./img/projects/sphairahedronExperiment.jpg",
         "description": "Sphairahedra are analogous to polyhedra but with spherical faces. They are invented to introduced a new kind of fractal shape.",
-        "links": [{ "title": "URL",
+        "links": [{ "title": "sphairahedron.net",
                     "url": "https://sphairahedron.net"
                   },
                   { "title": "Renderer",
@@ -63,7 +72,7 @@
         "title": "JosKleinExperiment",
         "captionSrc": "./img/projects/josklein.png",
         "description": "An efficient algorithm to render Kleinian groups with maskit parametrization invented by Jos Leys. This is an experimental renderer for the algorithm.",
-        "links": [{ "title": "URL",
+        "links": [{ "title": "Web page",
                     "url": "https://soma-arc.net/JosKleinExperiment"
                   },
                   { "title": "GitHub",
@@ -74,7 +83,7 @@
         "title": "Shaders on Shadertoy",
         "captionSrc": "./img/projects/shadertoy.jpg",
         "description": "My Shadertoy page. The main theme of the shaders are mathematical visualization",
-        "links": [{ "title": "URL",
+        "links": [{ "title": "Web page",
                     "url": "https://www.shadertoy.com/user/soma_arc"
                   }
                  ]
@@ -83,7 +92,7 @@
         "title": "HyperbolicTessellator",
         "captionSrc": "./img/projects/tessellation.png",
         "description": "Visualize hyperbolic tessellation and its deformation.",
-        "links": [{ "title": "URL",
+        "links": [{ "title": "Web page",
                     "url": "https://soma-arc.net/HyperbolicTessellator"
                   },
                   { "title": "GitHub",
