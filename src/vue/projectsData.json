@@ -22,14 +22,14 @@
             "title": "Flower",
             "captionSrc": "./img/projects/flower.png",
             "description":"A flow-based programming environment for kaleidoscope patterns",
-            "links": [{ "title": "https://soma-arc.net/Flower/",
+            "links": [{ "title": "Web page",
                         "url": "https://soma-arc.net/Flower/"
                       },
                       { "title": "GitHub",
                         "url": "https://github.com/soma-arc/Flower"
                       },
                       {
-                          "title": "Introductory video of Flower",
+                          "title": "Introductory Video",
                           "url": "https://www.youtube.com/watch?v=FWp-eF5gz5o&feature=youtu.be"
                       }
                      ]
@@ -44,28 +44,35 @@
                  ]
         },
         {
-        "title": "SchottkyLink",
-        "captionSrc": "./img/projects/schottkyLink.png",
-        "description": "An interactive visualization system on a family of Kleinian groups based on Schottky groups.",
-        "links": [{ "title": "https://schottky.jp",
-                    "url": "https://schottky.jp"
-                  },
-                  { "title": "GitHub",
-                    "url": "https://github.com/soma-arc/SchottkyLink"}
-                 ]
-    },
-    {
         "title": "Sphairahedron",
         "captionSrc": "./img/projects/sphairahedronExperiment.jpg",
         "description": "Sphairahedra are analogous to polyhedra but with spherical faces. They are invented to introduced a new kind of fractal shape.",
-        "links": [{ "title": "sphairahedron.net",
+        "links": [{ "title": "Web page",
                     "url": "https://sphairahedron.net"
                   },
                   { "title": "Renderer",
                     "url": "https://soma-arc.net/SphairahedronExperiment"
                   },
                   { "title": "GitHub",
-                    "url": "https://github.com/soma-arc/SphairahedronExperiment"}
+                    "url": "https://github.com/soma-arc/SphairahedronExperiment"
+                  },
+                  { "title": "Introductory Video",
+                    "url": "https://www.youtube.com/watch?v=vgrGWiYf-xU"
+                  }
+                 ]
+        },
+        {
+        "title": "SchottkyLink",
+        "captionSrc": "./img/projects/schottkyLink.png",
+        "description": "An interactive visualization system on a family of Kleinian groups based on Schottky groups.",
+        "links": [{ "title": "Web page",
+                    "url": "https://schottky.jp"
+                  },
+                  { "title": "GitHub",
+                    "url": "https://github.com/soma-arc/SchottkyLink"},
+                  { "title": "Introductory Video",
+                    "url": "https://www.youtube.com/watch?v=s1rtGw-WM_8"
+                  }
                  ]
     },
     {
@@ -130,6 +137,9 @@
         "description": "Audio visual performance software about Hyperbolic Tessellation and Kleinian groups. This software is developed for <a href='http://bsod.fukuchilab.org/'>BSOD 3.0</a>, experimental event for visual performance.",
         "links": [{ "title": "GitHub",
                     "url": "https://github.com/soma-arc/HyperbolicBeing"
+                  },
+                  { "title": "Performance Video",
+                    "url": "https://www.youtube.com/watch?v=_osZa_0w9qM"
                   }
                  ]
     },
@@ -159,5 +169,13 @@
                     "url": "http://soma.hatenablog.jp/entry/2016/02/22/220100"
                   }
                  ]
+    },
+    {
+        "title": "Kleinian Walker",
+        "captionSrc": "./img/projects/kleinianWalker.png",
+        "description": "My first project to render the limit set of the Kleinian groups. The development was stopped.",
+        "links": [{"title": "GitHub",
+                   "url": "https://github.com/soma-arc/KleinianWalker"}]
+            
     }]
 }
