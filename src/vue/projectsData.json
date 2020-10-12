@@ -5,9 +5,9 @@
             "captionSrc": "./img/projects/fractalFlame.png",
             "description": "Fractal Flame Renderer",
             "links": [{"title": "Web page",
-                       "url": "https://soma-arc.net/IFSExperiment/"},
+                       "url": "https://soma-arc.net/FractalFlame/"},
                       {"title": "GitHub",
-                       "url": "https://github.com/soma-arc/IFSExperiment"}]
+                       "url": "https://github.com/soma-arc/FractalFlame"}]
         },
         {
             "title": "Newton Press",
