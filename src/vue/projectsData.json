@@ -1,6 +1,15 @@
 {
     "projectList": [
         {
+            "title": "Kleinian Walker Web",
+            "captionSrc": "./img/projects/kleinianWalkerWeb.png",
+            "description": "Render the limit set of the Kleinian groups with a classical way referred from Indra's Pearls. According to the parameter, it takes too much time to compute the limit set, and your browser may crash. Please use this application at your own risk.",
+            "links": [{"title": "Web Page",
+                       "url": "https://soma-arc.net/KleinianWalkerWeb/"},
+                      {"title": "GitHub",
+                       "url": "https://github.com/soma-arc/KleinianWalkerWeb"}]
+        },
+        {
             "title": "Fractal Flame",
             "captionSrc": "./img/projects/fractalFlame.png",
             "description": "Fractal Flame Renderer based on vertex shader",
@@ -88,6 +97,17 @@
                   },
                   { "title": "GitHub",
                     "url": "https://github.com/soma-arc/JosKleinExperiment"}
+                 ]
+    },
+    {
+        "title": "soma-arc.github.io",
+        "captionSrc": "./img/projects/soma-arc.png",
+        "description": "My portfolio website. (This website.)",
+        "links": [{ "title": "Web Page",
+                    "url": "https://soma-arc.net"
+                  },
+                  { "title": "GitHub",
+                    "url": "https://github.com/soma-arc/soma-arc.github.io"}
                  ]
     },
     {
