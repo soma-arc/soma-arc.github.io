@@ -7,7 +7,10 @@
             "links": [{"title": "Web Page",
                        "url": "https://soma-arc.net/KleinianWalkerWeb/"},
                       {"title": "GitHub",
-                       "url": "https://github.com/soma-arc/KleinianWalkerWeb"}]
+                       "url": "https://github.com/soma-arc/KleinianWalkerWeb"},
+                      {"title": "Introductory Video",
+                       "url": "https://youtu.be/XnhvkhgxrCE"
+                      }]
         },
         {
             "title": "Fractal Flame",
