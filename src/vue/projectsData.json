@@ -200,9 +200,11 @@
     {
         "title": "Kleinian Walker",
         "captionSrc": "./img/projects/kleinianWalker.png",
-        "description": "My first project to render the limit set of the Kleinian groups. The development was stopped.",
+        "description": "My first project to render the limit set of the Kleinian groups. The development was stopped. It is based on IndraJava",
         "links": [{"title": "GitHub",
-                   "url": "https://github.com/soma-arc/KleinianWalker"}]
+                   "url": "https://github.com/soma-arc/KleinianWalker"},
+                  {"title": "GitHub (IndraJava)",
+                   "url": "https://github.com/soma-arc/IndraJava"}]
             
     }]
 }
