@@ -28,9 +28,12 @@
         {
             "title": "Newton Press",
             "captionSrc": "./img/projects/newton.jpg",
-            "description":"I provided the images of fractals to the Newton Press. / Newton別冊 数学の世界 図形編 改訂第2版 フラクタル画像提供",
-            "links": [{ "title": "Newton Press",
-                        "url": "https://www.newtonpress.co.jp/separate/back_mathematics/mook_200410-2.html"
+            "description":"I provided the images of fractals to the Newton Press. / Newton別冊 数学の世界 図形編 改訂第2版 フラクタル画像提供, Newtonライト2.0 「π」 フラクタル画像提供",
+            "links": [{ "title": "Newton Press， Newton別冊 数学の世界 図形編",
+                        "url": "https://www.newtonpress.co.jp/separate/back_mathematics/mook_200410-2.html"                        
+                      },
+                      { "title": "Newton Press， Newtonライト2.0 π",
+                          "url": "https://www.newtonpress.co.jp/separate/light/light_201225-1.html"
                       }
                      ]
         },
@@ -103,7 +106,7 @@
                  ]
     },
     {
-        "title": "soma-arc.github.io",
+        "title": "soma-arc.net",
         "captionSrc": "./img/projects/soma-arc.png",
         "description": "My portfolio website. (This website.)",
         "links": [{ "title": "Web Page",
