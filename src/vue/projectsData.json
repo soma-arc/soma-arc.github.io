@@ -105,6 +105,17 @@
                     "url": "https://github.com/soma-arc/JosKleinExperiment"}
                  ]
     },
+        {
+            "title": "Akasha",
+            "captionSrc": "./img/projects/Akasha.png",
+            "description": "Akasha is spherical photo editor / viewer. It edits the spherical images using Möbius transformations. We can also use live streaming video from Richo Theta.",
+            "links": [{"title": "Web Page",
+                       "url": "https://soma-arc.net/Akasha"},
+                      {"title": "GitHub",
+                       "url": "https://github.com/soma-arc/Akasha"},
+                      {"title": "Demo at Shadertoy",
+                       "url": "https://www.shadertoy.com/view/lt3XW7"}]
+        },
     {
         "title": "soma-arc.net",
         "captionSrc": "./img/projects/soma-arc.png",
