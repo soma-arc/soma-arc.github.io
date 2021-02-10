@@ -73,6 +73,12 @@
 		Flower: A flow-based programming environment for kaleidoscope patterns (peer-reviewed),<br>
 		November 28, 2019
 	  </li>
+      <li>
+		<h3><a href="https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/16" target="_blank">"Interactive cognition of higher dimension with VR"</a> Talk</h3>
+        Sphairahedron groups and quasi-sphere in VR
+		,<br>
+		February 10, 2021 [<a href="https://drive.google.com/file/d/1nZAwJi4yWBDqUqry1z4fEj8e6Ex4QDtQ/view?usp=sharing" target="_blank">slide</a>]
+	  </li>
 	</ul>
     <h1>Informal Talks</h1>
     <ul class="content">
