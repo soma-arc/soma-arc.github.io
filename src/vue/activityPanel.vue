@@ -71,7 +71,7 @@
       <li>
 		<h3><a href="http://symmetry2019.org/" target="_blank">"Symmetry: Art and Science -11th Congress and Exhibition"</a> Talk</h3>
 		Flower: A flow-based programming environment for kaleidoscope patterns (peer-reviewed),<br>
-		November 28, 2019
+		November 28, 2019 [<a href="./paper/symmetry2019.pdf" target="_blank">paper</a>]
 	  </li>
       <li>
 		<h3><a href="https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/16" target="_blank">"Interactive cognition of higher dimension with VR"</a> Talk</h3>
@@ -111,6 +111,12 @@
            Polyhedra with Spherical Faces and Four-Dimensional Kleinian Groups,<br>
            Kento Nakamura, Yoshiaki Araki, and Kazushi Ahara,<br>
            September,2020 [<a href="https://github.com/soma-arc/ExperimentalMathematics/releases/tag/1.0" target="_blank">paper</a>]
+	     </li>
+         <li><h3>Preprint</h3>
+           Iterated Inversion System: An Algorithm for Efficiently
+           Visualizing Kleinian Groups and Extending the Possibilities of Fractal Art,<br>
+           Kento Nakamura<br>
+           January,2021
 	    </li>
     </ul>
     <h1>Rewards</h1>
