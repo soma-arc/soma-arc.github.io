@@ -121,7 +121,7 @@
            Iterated Inversion System: An Algorithm for Efficiently
            Visualizing Kleinian Groups and Extending the Possibilities of Fractal Art,<br>
            Kento Nakamura<br>
-           January,2021
+           January,2021 [<a href="./paper/JMAPreprint.pdf" target="_blank">paper</a>]
 	    </li>
     </ul>
     <h1>Rewards</h1>
