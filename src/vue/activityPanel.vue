@@ -27,6 +27,11 @@
 		A Flow-Based Programming Environment for Geometrical Construction (peer-reviewed),<br>
 		Kento Nakamura and Kazushi Ahara [<a href="https://www.springer.com/gp/book/9783030521998#" target="_blank">paper</a>]<br>
 	  </li>
+      <li>
+		<h3><a href="https://www.tandfonline.com/toc/tmaa20/current" target="_blank">Journal of Mathematics and the Arts</a></h3>
+		Iterated Inversion System: An Algorithm for Efficiently Visualizing Kleinian Groups and Extending the Possibilities of Fractal Art (peer-reviewed),<br>
+		Kento Nakamura<br>
+	  </li>
 	</ul>
     <h1>Conference Activities & Talks</h1>
 	<ul class="content">
