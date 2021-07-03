@@ -30,7 +30,7 @@
       <li>
 		<h3><a href="https://www.tandfonline.com/toc/tmaa20/current" target="_blank">Journal of Mathematics and the Arts</a></h3>
 		Iterated Inversion System: An Algorithm for Efficiently Visualizing Kleinian Groups and Extending the Possibilities of Fractal Art (peer-reviewed),<br>
-		Kento Nakamura<br>
+		Kento Nakamura [<a href="https://www.tandfonline.com/doi/full/10.1080/17513472.2021.1943998" target="_blank">paper</a>]<br>
 	  </li>
 	</ul>
     <h1>Conference Activities & Talks</h1>
