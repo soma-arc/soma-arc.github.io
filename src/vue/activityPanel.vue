@@ -3,17 +3,17 @@
     <h1>Publications</h1>
     <ul class="content">
 	  <li>
-		<h3><a href="http://bridgesmathart.org/bridges-2016/" target="_blank">Bridges Finland 2016 Proceedings</a> Short Papers</h3>
+		<h3><a href="https://static1.bridgesmathart.org/past-conferences/bridges-2016/" target="_blank">Bridges Finland 2016 Proceedings</a> Short Papers</h3>
 		A New Algorithm for Rendering Kissing Schottky Groups (peer-reviewed),<br>
 		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2016/bridges2016-367.html" target="_blank">paper</a>, <a href="https://drive.google.com/file/d/1YvVguHlqM2N33phGaHSvdRJR9A5jMn_t/view?usp=sharing" target="_blank">slide</a>]<br>
 	  </li>
       <li>
-		<h3><a href="http://bridgesmathart.org/bridges-2017/" target="_blank">Bridges Waterloo 2017 Proceedings</a> Regular Papers</h3>
+		<h3><a href="https://static1.bridgesmathart.org/past-conferences/bridges-2017/" target="_blank">Bridges Waterloo 2017 Proceedings</a> Regular Papers</h3>
 		A Geometrical Representation and Visualization of Möbius Transformation Groups (peer-reviewed), <br>
 		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2017/bridges2017-159.html" target="_blank">paper</a>, <a href="https://drive.google.com/file/d/1VrIANp6pRu1V6VjcRidnmWlGX3sgw2V8/view?usp=sharing" target="_blank">slide</a>]<br>
 	  </li>
       <li>
-		<h3><a href="http://bridgesmathart.org/bridges-2018/" target="_blank">Bridges Stockholm 2018 Proceedings</a> Regular Papers</h3>
+		<h3><a href="https://static1.bridgesmathart.org/past-conferences/bridges-2018/" target="_blank">Bridges Stockholm 2018 Proceedings</a> Regular Papers</h3>
 		Sphairahedra and Three-Dimensional Fractals (peer-reviewed), <br>
 		Kento Nakamura and Kazushi Ahara [<a href="http://archive.bridgesmathart.org/2018/bridges2018-171.html" target="_blank">paper</a>, <a href="https://drive.google.com/file/d/17Ow7sQxDpo2XxJx_nLEuMNUajt_nq0l9/view?usp=sharing" target="_blank">slide</a>]<br>
 	  </li>
