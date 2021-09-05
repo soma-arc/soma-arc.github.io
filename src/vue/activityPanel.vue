@@ -48,7 +48,7 @@
 	  </li>
 	  <li>
 		<h3><a href="http://www.math.akita-u.ac.jp/tc2016/index-e.html" target="_blank">Workshop "Topology and Computer 2016"</a> Talk</h3>
-		An interactive visualization system on a family of Kleinian groups based on Schottky groups
+		An interactive visualization system on a family of Kleinian groups based on Schottky groups<br>
 		October 30, 2016 [<a href="https://drive.google.com/file/d/1eB3hYMnwcw5KO1ij_Ua1Mz4CYp4kk1BE/view?usp=sharing" target="_blank">slide</a>]
 	  </li>
       <li>
