@@ -78,11 +78,16 @@
 		Flower: A flow-based programming environment for kaleidoscope patterns (peer-reviewed),<br>
 		November 28, 2019 [<a href="./paper/symmetry2019.pdf" target="_blank">paper</a>]
 	  </li>
-      <li>
+          <li>
 		<h3><a href="https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/16" target="_blank">"Interactive cognition of higher dimension with VR"</a> Talk</h3>
         Sphairahedron groups and quasi-sphere in VR
 		,<br>
 		February 10, 2021 [<a href="https://drive.google.com/file/d/1nZAwJi4yWBDqUqry1z4fEj8e6Ex4QDtQ/view?usp=sharing" target="_blank">slide</a>]
+	  </li>
+          <li>
+	    <h3><a target="_blank">Workshop "Intuitive Geometry 2022"</a> Talk</h3>
+		球面体と三次元フラクタルの可視化<br>
+		March 3, 2017 [<a href="https://docs.google.com/presentation/d/1NeAxbdcxQ9OBxR3qX8ORd9_FQR5yfDUnAZvSMtextnM/edit?usp=sharing" target="_blank">slide</a>]
 	  </li>
 	</ul>
     <h1>Informal Talks</h1>
