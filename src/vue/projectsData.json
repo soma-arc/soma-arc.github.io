@@ -1,5 +1,15 @@
+
 {
     "projectList": [
+        {
+            "title": "Kodansha Bluebacks",
+            "captionSrc": "./img/projects/kodanshaComplex.jpg",
+            "description":"I provided the fractal image of the front cover of the book. / 「複雑系」入門 表紙画像提供",
+            "links": [{ "title": "講談社ブルーバックス 「複雑系」入門　カオス、フラクタルから生命の謎まで",
+                        "url": "https://bookclub.kodansha.co.jp/product?item=0000376212"
+                      }
+                     ]
+        },
         {
         "title": "Quake",
         "captionSrc": "./img/projects/quake.png",
@@ -42,7 +52,7 @@
             "captionSrc": "./img/projects/newton.jpg",
             "description":"I provided the images of fractals to the Newton Press. / Newton別冊 数学の世界 図形編 改訂第2版 フラクタル画像提供, Newtonライト2.0 「π」 フラクタル画像提供",
             "links": [{ "title": "Newton Press， Newton別冊 数学の世界 図形編",
-                        "url": "https://www.newtonpress.co.jp/separate/back_mathematics/mook_200410-2.html"                        
+                        "url": "https://www.newtonpress.co.jp/separate/back_mathematics/mook_200410-2.html"
                       },
                       { "title": "Newton Press， Newtonライト2.0 π",
                           "url": "https://www.newtonpress.co.jp/separate/light/light_201225-1.html"
@@ -243,6 +253,6 @@
                    "url": "https://github.com/soma-arc/KleinianWalker"},
                   {"title": "GitHub (IndraJava)",
                    "url": "https://github.com/soma-arc/IndraJava"}]
-            
+
     }]
 }
